@@ -1,3 +1,3 @@
-$(document).ready(function(x) {
+$(document).ready(function(y) {
   x.preventDefault();
 })
